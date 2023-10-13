@@ -1,0 +1,12 @@
+/* @import url('https://code.highcharts.com/css/highcharts.css'); */
+.xaxis-label {
+	background-color: #203864;
+	font-size: 13px;
+	color: white;
+	padding: 7px 10px;
+	border-radius: 10px;
+}
+
+.xaxis-label:hover {
+	background-color: #0277bd;
+}
